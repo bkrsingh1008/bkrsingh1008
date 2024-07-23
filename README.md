@@ -13,6 +13,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/beauty-kumari-13945a227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/beauty-kumari-13945a227" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/bkrsingh1008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/bkrsingh1008" height="30" width="40" /></a>
+
+  <a href="https://www.mysql.comhttps://www.microsoft.com/en-au/power-platform/products/power-bi/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
