@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Beauty Kumari</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://in.images.search.yahoo.com/search/images;_ylt=Awr1QR3gN6Bm2AICKRC7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3Nj?p=animated+coding+gif+girl+images&ei=UTF-8&fr=mcafee&th=116&tw=154.9&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif&rurl=https%3A%2F%2Fgithub.com%2Fumika13%2F&size=572KB&name=umika13+%28Umika+Sharma%29+%C2%B7+GitHub&oid=1&h=600&w=800&turl=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.qdAW1TjCN57h1lbuuzvchgHaFj%26pid%3DApi%26rs%3D1%26c%3D1%26qlt%3D95%26w%3D154%26h%3D116&tt=umika13+%28Umika+Sharma%29+%C2%B7+GitHub&sigr=cEP2EdKz5kHi&sigit=_A1JI08qMWfJ&sigi=sNnr1XO0ZqwY&sign=_dEaUOuKVAUm&sigt=_dEaUOuKVAUm">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🌱 I’m currently learning **Power BI, MySQL, Python, Excel**
 
