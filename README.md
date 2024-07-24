@@ -1,3 +1,5 @@
+![logo](https://github.com/bkrsingh1008/bkrsingh1008/blob/main/Github%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Beauty Kumari</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
